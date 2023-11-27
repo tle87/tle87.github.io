@@ -1,0 +1,28 @@
+[
+    {"ZIP_CODE": "60612", "ORIGIN": "Alderman's Office", "count": 7.4489161025},
+    {"ZIP_CODE": "60612", "ORIGIN": "Internet", "count": 9.4800621191},
+    {"ZIP_CODE": "60612", "ORIGIN": "Mass Entry", "count": 9.3294558529},
+    {"ZIP_CODE": "60612", "ORIGIN": "Mobile Device", "count": 9.3831165159},
+    {"ZIP_CODE": "60612", "ORIGIN": "Phone Call", "count": 14.9599846002},
+    {"ZIP_CODE": "60617", "ORIGIN": "Alderman's Office", "count": 9.5203219519},
+    {"ZIP_CODE": "60617", "ORIGIN": "Internet", "count": 9.7769601461},
+    {"ZIP_CODE": "60617", "ORIGIN": "Mass Entry", "count": 8.5271435223},
+    {"ZIP_CODE": "60617", "ORIGIN": "Mobile Device", "count": 9.3590189643},
+    {"ZIP_CODE": "60617", "ORIGIN": "Phone Call", "count": 11.4485682607},
+    {"ZIP_CODE": "60618", "ORIGIN": "Alderman's Office", "count": 9.0633473482},
+    {"ZIP_CODE": "60618", "ORIGIN": "Internet", "count": 10.5276061467},
+    {"ZIP_CODE": "60618", "ORIGIN": "Mass Entry", "count": 9.4397045351},
+    {"ZIP_CODE": "60618", "ORIGIN": "Mobile Device", "count": 10.0468516948},
+    {"ZIP_CODE": "60618", "ORIGIN": "Phone Call", "count": 10.7869037913},
+    {"ZIP_CODE": "60628", "ORIGIN": "Alderman's Office", "count": 9.2804259795},
+    {"ZIP_CODE": "60628", "ORIGIN": "Internet", "count": 9.9196561337},
+    {"ZIP_CODE": "60628", "ORIGIN": "Mass Entry", "count": 7.7484600239},
+    {"ZIP_CODE": "60628", "ORIGIN": "Mobile Device", "count": 8.7735393836},
+    {"ZIP_CODE": "60628", "ORIGIN": "Phone Call", "count": 11.6141092703},
+    {"ZIP_CODE": "60666", "ORIGIN": "E-Mail", "count": 4.7449321284},
+    {"ZIP_CODE": "60666", "ORIGIN": "Internet", "count": 14.1526311558},
+    {"ZIP_CODE": "60666", "ORIGIN": "Mobile Device", "count": 9.9291065652},
+    {"ZIP_CODE": "60666", "ORIGIN": "Phone Call", "count": 9.215228406},
+    {"ZIP_CODE": "60666", "ORIGIN": "SPOTCSR", "count": 4.276666119}
+]
+  

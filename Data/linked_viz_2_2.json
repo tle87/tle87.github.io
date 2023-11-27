@@ -1,0 +1,14 @@
+[
+    {"CREATED_YEAR":2018,"STATUS":"Canceled","count":3934},
+    {"CREATED_YEAR":2018,"STATUS":"Completed","count":31222},
+    {"CREATED_YEAR":2019,"STATUS":"Canceled","count":33919},
+    {"CREATED_YEAR":2019,"STATUS":"Completed","count":1685847},
+    {"CREATED_YEAR":2020,"STATUS":"Canceled","count":17491},
+    {"CREATED_YEAR":2020,"STATUS":"Completed","count":1998659},
+    {"CREATED_YEAR":2021,"STATUS":"Canceled","count":14809},
+    {"CREATED_YEAR":2021,"STATUS":"Completed","count":1794026},
+    {"CREATED_YEAR":2022,"STATUS":"Canceled","count":16635},
+    {"CREATED_YEAR":2022,"STATUS":"Completed","count":1653253},
+    {"CREATED_YEAR":2023,"STATUS":"Canceled","count":10617},
+    {"CREATED_YEAR":2023,"STATUS":"Completed","count":943783}
+]

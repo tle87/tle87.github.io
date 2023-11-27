@@ -1,0 +1,41 @@
+.visualization {
+    width: 480px;
+    height: 300px;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-areas: 
+        "viz1 viz3 viz5"
+        "viz2 viz4 viz6";
+    gap: 20px;
+    width: 100%;
+    max-width: 1440px;
+    align-items: start;
+}
+
+#vis1 {
+    grid-area: viz1;
+}
+
+#vis2 {
+    grid-area: viz2;
+}
+
+#vis3 {
+    grid-area: viz3;
+}
+
+#vis4 {
+    grid-area: viz4;
+}
+
+#vis5 {
+    grid-area: viz5;
+}
+
+#vis6 {
+    grid-area: viz6;
+}
+

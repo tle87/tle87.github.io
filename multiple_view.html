@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CS 424 Assignment 4 - Bee's Viz</title>
+    <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    <link rel="stylesheet" href="css/nav_bar.css">
+    <link rel="stylesheet" href="css/multiple_view.css">
+</head>
+
+<body>
+    <nav>
+        <ul>
+            <li><a href="/index.html" onclick="changePage('index')"><img src="Images/chi311.png" width="150" height="50">     <i>Bee's Viz</i></a></li>
+            <li><a href="/single_view.html" onclick="changePage('single_view')">Single View Visualizations</a></li>
+            <li><a href="/linked_view.html" onclick="changePage('linked_view')">Linked View Visualizations</a></li>
+            <li><a href="/">Multiple View Visualization</a></li>
+            <li><a href="/spatial.html" onclick="changePage('spatial_view')">Spatial Visualization</a></li>
+        </ul>
+    </nav>
+    <h2>Multiple View Visualization</h2>
+    <div id="vis1"></div>
+    <div id="vis2"></div>
+    <script src="js/multiple_view.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,13 @@
+[
+    {"OWNER_DEPARTMENT": "Animal Care and Control", "COMPLETION_TIME": 7},
+    {"OWNER_DEPARTMENT": "BACP - Business Affairs and Consumer Protection", "COMPLETION_TIME": 59},
+    {"OWNER_DEPARTMENT": "CDOT - Department of Transportation", "COMPLETION_TIME": 48},
+    {"OWNER_DEPARTMENT": "City Clerk's Office", "COMPLETION_TIME": 37},
+    {"OWNER_DEPARTMENT": "DOB - Buildings", "COMPLETION_TIME": 54},
+    {"OWNER_DEPARTMENT": "DWM - Department of Water Management", "COMPLETION_TIME": 69},
+    {"OWNER_DEPARTMENT": "Department of Housing", "COMPLETION_TIME": 8},
+    {"OWNER_DEPARTMENT": "Department of Planning and Development", "COMPLETION_TIME": 3},
+    {"OWNER_DEPARTMENT": "Fire", "COMPLETION_TIME": 78},
+    {"OWNER_DEPARTMENT": "Health", "COMPLETION_TIME": 167},
+    {"OWNER_DEPARTMENT": "Streets and Sanitation", "COMPLETION_TIME": 43}
+]
